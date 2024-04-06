@@ -1,0 +1,13 @@
+# Any key from ScanCode: https://docs.rs/interception/0.1.2/interception/scancode/enum.ScanCode.html
+keys:
+  up: W
+  left: A
+  down: S
+  right: D
+  stratagem: LeftControl
+
+# Working id from Monitor.ahk
+keyboardId: 3
+
+# Sleep time
+wait: 1000
