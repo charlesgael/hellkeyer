@@ -1,0 +1,69 @@
+categories:
+  0: Mission
+  1: 'Supply: Backpacks'
+  2: 'Supply: Support Weapons'
+  3: Defensive
+  4: 'Offensive: Orbital'
+  5: 'Offensive: Eagle'
+  6: 'Supply: Vehicles'
+
+stratagem:
+  sos_beacon: Sos Beacon
+  resupply: Resupply
+  reinforce: Reinforce
+
+  machine_gun: Machine Gun
+  anti_materiel_rifle: Anti-Materiel Rifle
+  stalwart: Stalwart
+  expendable_anti_tank: Expendable Anti-Tank
+  recoilless_rifle: Recoilless Rifle
+  flamethrower: Flamethrower
+  autocannon: Autocannon
+  heavy_machine_gun: Heavy Machine Gun
+  railgun: Railgun
+  spear: Spear
+
+  orbital_gatling_barrage: Orbital Gatling Barrage
+  orbital_airburst_strike: Orbital Airburst Strihe
+  orbital_120mm_he_barrage: Orbital 120mm HE Barrage
+  orbital_380mm_he_barrage: Orbital 380mm HE Barrage
+  orbital_walking_barrage: Orbital Walking Barrage
+  orbital_laser: Orbital Laser
+  orbital_railcannon_strike: Orbital Railcannon Strike
+
+  eagle_strafing_run: Eagle Strafing Run
+  eagle_airstrike: Eagle Airstrihe
+  eagle_cluster_bomb: Eagle Cluster Bomb
+  eagle_napalm_airstrike: Eagle Napalm Airstrike
+  jump_pack: Jump Pack
+  eagle_smoke_strike: Eagle Smoke Strike
+  eagle_110mm_rochet_pods: Eagle 110mm Rochet Pods
+  eagle_500kg_bomb: Eagle 500kg Bomb
+
+  orbital_precision_strike: Orbital Precision Strike
+  orbital_gas_strike: Orbital Gas Strike
+  orbital_ems_strike: Orbital Ems Strike
+  orbital_smoke_strike: Orbital Smoke Strike
+  hmg_emplacement: HMG Emplacement
+  shield_generator_relay: Shield Generator Relay
+  tesla_tower: Tesla Tower
+
+  anti_personnel_minefield: Anti-Personnel Minefield
+  supply_pack: Supply Pack
+  grenade_launcher: Grenade Launcher
+  laser_cannon: Laser Cannon
+  incendiary_mines: Incendiary Mines
+  guard_dog_rover: '"Guard Dog" Rover'
+  ballistic_shield_backpack: Ballistic Shield Backpack
+  arc_thrower: Arc Thrower
+  quasar_cannon: Quasar Cannon
+  shield_generator_pack: Shield Generator Pack
+
+  machine_gun_sentry: Machine Gun Sentry
+  gatling_sentry: Gatling Sentry
+  mortar_sentry: Mortar Sentry
+  guard_dog: '"Guard Dog"'
+  autocannon_sentry: Autocannon Sentry
+  rocket_sentry: Rocket Sentry
+  ems_mortar_sentry: Ems Mortar Sentry
+  patriot_exosuit: Patriot Exosuit

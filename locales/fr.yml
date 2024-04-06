@@ -1,0 +1,59 @@
+stratagem:
+  sos_beacon: Sos Beacon
+  resupply: Resupply
+
+  machine_gun: Mittrailleuse
+  anti_materiel_rifle: Fusil de précision
+  stalwart: Vigoureux
+  expendable_anti_tank: Charge Antichar
+  recoilless_rifle: Fusil Sans Recul
+  flamethrower: Lance-Flames
+  autocannon: Canon Automatique
+  heavy_machine_gun: Mitrailleuse Lourde
+  railgun: Fusil Électromagnétique
+  spear: Lance
+
+  orbital_gatling_barrage: Barrage de Gatling Orbitale
+  orbital_airburst_strike: Frappe Orbitale Fusante
+  orbital_120mm_he_barrage: Frappe HE Orbitale de 120 mm
+  orbital_380mm_he_barrage: Barrage HE Orbital de 380 mm
+  orbital_walking_barrage: Barrage Mobile Orbital
+  orbital_laser: Laser Orbital
+  orbital_railcannon_strike: Frappe de Canon Électromagnétique Orbital
+
+  eagle_strafing_run: Aigle - Soutien Aérien
+  eagle_airstrike: Aigle - Frappe Aérienne
+  eagle_cluster_bomb: Aigle - Bombe à Fragmentation
+  eagle_napalm_airstrike: Aigle - Frappe au Napalm
+  jump_pack: Jetpack
+  eagle_smoke_strike: Aigle - Frappe Fumigène
+  eagle_110mm_rochet_pods: Aigle - Missile Air-Sol de 110 mm
+  eagle_500kg_bomb: Aigle - Bombe de 500 kg
+
+  orbital_precision_strike: Frappe Orbitale Précise
+  orbital_gas_strike: Frappe Chimique Orbitale
+  orbital_ems_strike: Frape Orbitale GCS
+  orbital_smoke_strike: Écran de Fumée Orbital
+  hmg_emplacement: Tourelle Mitrailleuse Lourde
+  shield_generator_relay: Relais Générateur de Bouclier
+  tesla_tower: Tour Tesla
+
+  anti_personnel_minefield: Dispositif de Mines Antipersonnel
+  supply_pack: Sac - Ravitaillement
+  grenade_launcher: Lance-Grenades
+  laser_cannon: Canon Laser
+  incendiary_mines: Mines Incendiaires
+  guard_dog_rover: Astro-Cernère
+  ballistic_shield_backpack: Sac - Bouclier Balistique
+  arc_thrower: Canon Électrique
+  quasar_cannon: Canon Quasar
+  shield_generator_pack: Générateur de Boucliers
+
+  machine_gun_sentry: Sentienelle Mitrailleuse
+  gatling_sentry: Sentinelle Gatling
+  mortar_sentry: Sentinelle Mortier
+  guard_dog: Cerbère
+  autocannon_sentry: Sentinelle à Canon Automatique
+  rocket_sentry: Sentinelle Lance-Roquettes
+  ems_mortar_sentry: Sentinelle Mortier GCS
+  patriot_exosuit: Exosquelette Patriote
